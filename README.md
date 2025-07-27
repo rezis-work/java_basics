@@ -16,3 +16,13 @@ Whether you're just getting started with coding or looking to strengthen your Ja
 - ✅ Practical Exercises
 
 ---
+
+## 👨‍🏫 Created By
+
+> Developed with ❤️ by **Rezi Karanadze**  
+> Senior developer if [Line Dev](https://linedevltd.com) – Helping developers level up 🚀
+
+
+## ⭐ Don’t Forget to Star the Repo!
+
+If you find this helpful, please consider **starring** ⭐ the repo and sharing it with others!
